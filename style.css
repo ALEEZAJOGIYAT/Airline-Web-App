@@ -1,0 +1,170 @@
+
+{
+    padding: 0;
+    margin: 0;
+        
+}
+.header
+{
+    height:100%;
+    background-image:url(images/landscape.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align:center;
+    color:black;
+    padding-left: 80px;
+    
+}
+.header img
+{
+    width:90px;
+    float: left;
+}
+.login-btn{
+    width:100px;
+    padding: 8px 0;
+    outline:none;
+    border:2px solid #fff;
+    border-radius: 50px;
+    background-color: azure;
+    color: black;
+    float: right;
+    
+}
+.header h1{
+    padding-top: 200px;
+    padding-bottom: 0px;
+    font-size: 55px;
+    font-style:italic;
+    text-decoration-style: wavy;
+    font-family:'Caveat Brush', cursive;
+}
+.header p{
+    margin:18px 0;
+    font-family: 'Hahmlet', serif;
+    
+}
+.input-group{
+    width:90%;
+    max-width: 500px;
+    border-radius:30px;
+    background: #fff;
+    margin:auto;
+    padding:2px;
+}
+.form-control{
+    border:0 !important;
+    border-radius:30px 0 0 30px !important;
+    margin:2px;
+    box-shadow:none !important;
+}
+
+.input-group-text{
+    width:100px; 
+    background-image: linear-gradient(#00ff7e,#1f3d90);
+    border:0px;
+    color:#fff !important;
+    padding: 10px 25px !important;
+    border-radius: 30px !important;
+    box-shadow: none !important;    
+}
+
+/*features*/
+.features{
+    padding: 100px 0;
+    font-family: 'Caveat Brush', cursive;
+}
+h1{
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: 'Caveat Brush', cursive;
+    font-weight:600;
+    padding-top:45px;
+}
+.feature-img img
+{
+    width:30%;
+}
+.feature-img img
+{
+    display:block;
+    margin:0 auto;
+    width:100%;
+}
+h4
+{
+    text-align: centre;
+    font-family: 'Hahmlet', serif;
+    margin-top: 800px;
+    font-weight:bolder;
+    font-style: italic;
+    color:crimson;
+    padding-top: 10px;
+}
+.para1
+{
+    font-family: 'Kaushan Script', cursive;
+    box-shadow: 0 0 10px 0 rgba(0,0,100,0.2);
+}
+.flight-details
+{
+    font-family: 'Kaushan Script', cursive;
+    color:darkslateblue;
+    font-weight: 600;
+    box-shadow: 0 0 10px 0 rgba(0,0,100,0.6);
+}
+.banner
+{
+    height:80%;
+    background-image: url(images/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 14%;
+}
+.banner-highlights
+{
+    padding:70px 0;
+    background:rgba(0,0,0,30);
+    text-align:center;
+    color:#fff;        
+}
+.footer
+{
+    pading:100px 20px;
+    background-image:linear-gradient(#2d557d,#96fd);
+    color:#fff;
+}
+.footer-logo
+{
+    width:60px;
+    padding-top:50px;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+.footer h4
+{
+    text-align:left;
+    margin-top: 55px;
+    margin-bottom: 25px;
+    color: black;
+    
+}
+.footer p
+{
+    font-size:12px;
+    text-align: justify;
+    padding-right:35px;
+    
+}
+.footer .row .fa
+{
+    padding-right: 20px;
+}
+.footer hr
+{
+    margin-top: 10px;
+    background: #efefef;    
+}
